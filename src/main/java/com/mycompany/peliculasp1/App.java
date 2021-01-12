@@ -23,6 +23,8 @@ public class App extends Application {
 
     private static Scene scene;
     public static String pathpeliculas = "src/main/resources/com/mycompany/files/peliculas.csv";
+    //9.4 NO OLVIDAR QUE EN EL APP SE PONE LOS DIRECTORIOS
+    public static String pathimages = "src/main/resources/com/mycompany/files/";
     
     //1. 
     

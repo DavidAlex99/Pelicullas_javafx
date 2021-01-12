@@ -12,8 +12,8 @@
    <center>
       <HBox prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
          <children>
-            <ImageView fitHeight="252.0" fitWidth="249.0" pickOnBounds="true" preserveRatio="true" />
-            <Label text="De click para agregar una imagen..." />
+            <ImageView fx:id="imgPelicula" fitHeight="252.0" fitWidth="249.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="lblPelicula" text="De click para agregar una imagen..." />
          </children>
       </HBox>
    </center>

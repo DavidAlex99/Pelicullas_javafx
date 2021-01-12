@@ -37,7 +37,7 @@ public class PrimaryController {
     @FXML
     private void initialize(){
         //6 
-        new PanePeliculasGenero(hboxPeliculas).crearPanelesGenero();
+        new PanePeliculasGenero(hboxPeliculas, imgPelicula, lblPelicula).crearPanelesGenero();
 }
     public static void leerArchivospeliculas(){
         

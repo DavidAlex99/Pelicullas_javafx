@@ -17,13 +17,13 @@ public class Pelicula {
     private String urlImagen;
     private String review;
     private List<String>actores;
-
-    public Pelicula(String nombre,String review, String urlImagen, List<String> actores) {
+    
+    /*public Pelicula(String nombre,String review, String urlImagen, List<String> actores) {
         this.nombre = nombre;
         this.review=review;
         this.urlImagen = urlImagen;
         this.actores = actores;
-    }
+    }*/
 
     public Pelicula(String nombre, String urlImagen, String review) {
         this.nombre = nombre;
