@@ -1,0 +1,6 @@
+com\mycompany\modelo\Pelicula.class
+com\mycompany\peliculasp1\PanePeliculasGenero.class
+com\mycompany\peliculasp1\PrimaryController.class
+com\mycompany\peliculasp1\SecondaryController.class
+com\mycompany\peliculasp1\App.class
+module-info.class
